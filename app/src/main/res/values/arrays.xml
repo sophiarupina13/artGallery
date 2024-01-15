@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="exhibit_images">
+        <item>@drawable/mona_lisa</item>
+        <item>@drawable/the_birth_of_venus</item>
+        <item>@drawable/the_creation_of_adam</item>
+        <item>@drawable/the_last_supper</item>
+        <item>@drawable/the_sistine_madonna</item>
+    </array>
+    <string-array name="exhibit_names">
+        <item>Mona Lisa</item>
+        <item>The Birth of Venus</item>
+        <item>The Creation of Adam</item>
+        <item>The Last Supper</item>
+        <item>The Sistine Madonna</item>
+    </string-array>
+    <string-array name="exhibit_creators">
+        <item>Leonardo Da Vinci</item>
+        <item>Sandro Botticelli</item>
+        <item>Michelangelo</item>
+        <item>Leonardo Da Vinci</item>
+        <item>Raphael</item>
+    </string-array>
+    <string-array name="exhibit_years">
+        <item>(1503)</item>
+        <item>(The mid of 1480s)</item>
+        <item>(1508-1512)</item>
+        <item>(1495-1498)</item>
+        <item>(1512)</item>
+    </string-array>
+</resources>

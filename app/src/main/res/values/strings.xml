@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="mona_lisa">Mona Lisa</string>
+    <string name="frame">frame</string>
+    <string name="name_of_the_picture">Mona Lisa</string>
+    <string name="name_of_the_creature">Leonardo Da Vinci</string>
+    <string name="year">(1503)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
